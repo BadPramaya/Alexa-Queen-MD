@@ -1,6 +1,6 @@
 //═════════════════════════════//
 //
-//             ALEXA QUEEN V6.0.2                 
+//             x_ᴇxᴘᴇʀᴛ_x V6.0.2                 
 // 
 //
 //════════════════════════════//
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['27686881509'] //Owner Number in alive msg
-global.premium = ['27686881509'] //Owner Number in info
-global.ownernomer = '27686881509' // Owner Number <<<
-global.ownername = '👩‍💻CYBERXKID👩‍💻' //Owner Name
-global.botname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Name
-global.footer = '©-𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳.' //In List Menu
-global.ig = 'https://github.com/CYBERXKID'
+global.owner = ['94770611075'] //Owner Number in alive msg
+global.premium = ['94770611075'] //Owner Number in info
+global.ownernomer = '94770611075' // Owner Number <<<
+global.ownername = 'x_ᴇxᴘᴇʀᴛ_x' //Owner Name
+global.botname = '🧚‍♂️x_ᴇxᴘᴇʀᴛ_x🧚‍♂️' //Bot Name
+global.footer = '©x_ᴇxᴘᴇʀᴛ_x.' //In List Menu
+global.ig = 'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/CYBERXKID/Alexa-Queen-MD'
-global.myweb = 'https://youtube.com/channel/UC4oTs5DILGmK1EgIJ5XIyZw'
-global.packname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Pacage Name
-global.author = '👩‍💻CYBERXKID👩‍💻' //Author Name
+global.sc = 'https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E'
+global.myweb = 'https://t.me/TRXONLYY'
+global.packname = '🧚‍♂️x_ᴇxᴘᴇʀᴛ_x🧚‍♂️' //Bot Pacage Name
+global.author = 'x_ᴇxᴘᴇʀᴛ_x' //Author Name
 global.sessionName = 'session' //Session Name!
 global.prefa = ['','!','.','👩‍💻','📱','❤️'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '⭔' //A Charactor
